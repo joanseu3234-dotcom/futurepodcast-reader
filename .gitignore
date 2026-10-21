@@ -8,3 +8,4 @@ notes/
 .venv/
 .DS_Store
 .work/
+__pycache__/
